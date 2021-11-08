@@ -1,0 +1,19 @@
+Dataset terdiri dari 2 label, yaitu daun jeruk (Citrus Hystrix) dan daun kemangi (Ocimun Basilicum). Setiap label terdiri dari 50 gambar dengan kualitas yang sama. Daun yang dipetik berasal dari daerah kota setempat dan dipilih yang bagus dan tidak rusak sebagai dataset.
+Instrumen yang digunakan adalah kamera handphone Poco X3 Pro dan iPhone 13 Pro Max. Poco X3 Pro digunakan untuk mengambil sample gambar daun jeruk, sedangkan iPhone 13 Pro Max digunakan untuk mengambil sample gambar daun kemangi. Sample gambar diambil saat siang hari untuk memaksimalkan kondisi pencahayaan dan detail dari gambar.
+Sample gambar diambil dalam layout landscape dan dengan menggunakan kertas berwarna putih sebagai backgroundnya. Detail Informasi dari data yang diambil sebagai berikut.
+
+1.	Label Daun Jeruk
+-	Dimensi Gambar		: 4000 x 2250
+-	Panjang (Width)		: 4000 pixels
+-	Tinggi (Height)		: 2250 pixels
+-	Resolusi Horizontal		: 72 dpi
+-	Resolusi Vertikal		: 72 dpi
+-	Kedalaman Bit		: 24
+
+2.	Label Daun Kemangi 
+-	Dimensi Gambar		: 1280 x 958
+-	Panjang (Width)		: 1280 pixels
+-	Tinggi (Height)		: 958 pixels
+-	Resolusi Horizontal		: 96 dpi
+-	Resolusi Vertikal		: 96 dpi
+-	Kedalaman Bit		: 24
